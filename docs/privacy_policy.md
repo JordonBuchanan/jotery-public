@@ -1,4 +1,4 @@
-***Jotery's Privacy Policy***
+**Jotery's Privacy Policy**
 
 This privacy policy applies to the Jotery app (hereby referred to as "Application") for mobile devices that was created by Vatanan (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
 
