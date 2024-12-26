@@ -1,4 +1,4 @@
-***Jotery's Terms & Conditions**
+**Jotery's Terms & Conditions**
 
 These terms and conditions applies to the Jotery app (hereby referred to as "Application") for mobile devices that was created by Vatanan (hereby referred to as "Service Provider") as a Freemium service.
 
